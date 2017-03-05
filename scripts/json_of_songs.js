@@ -35,7 +35,7 @@ var albums = [
             "Happier",
             "New Man",
             "Hearts Don't Break Around Here",
-            "What Do I Know?"
+            "What Do I Know?",
             "How Would You Feel (Paean)",
             "Supermarket Flowers",
             "Barcelona",
