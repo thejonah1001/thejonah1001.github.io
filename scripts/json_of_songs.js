@@ -1,4 +1,4 @@
-                    d/* JSON of JONATHAN'S ALBUMS */
+/* JSON of JONATHAN'S ALBUMS */
 var albums = [
     {
         title: "The Human Condition",
