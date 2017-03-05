@@ -5,3 +5,15 @@ h1 {
 	font-family: Arial, sans-serif;
 	color: #336699;
 }
+#funButton {
+	background-color: #990000;
+	padding: 1em;
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+.italics {
+	font-style: italic;
+	color: green;
+}
