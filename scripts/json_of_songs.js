@@ -1,4 +1,4 @@
-/* JSON of JONATHAN'S ALBUMS */
+                    d/* JSON of JONATHAN'S ALBUMS */
 var albums = [
     {
         title: "The Human Condition",
@@ -22,15 +22,46 @@ var albums = [
         ]
     },
     {
-        title: "",
-        artist: "",
-        cover_url: "",
+        title: "Divide",
+        artist: "Ed Sheeran",
+        cover_url: "http://www.breatheheavy.com/wp-content/uploads/2017/03/ed-sheeran-divide.jpg",
         tracks: [
-            "",
-            "",
-            /*...*/
-            "",
-            ""
+            "Eraser",
+            "Castle on the Hill",
+            "Dive",
+            "Shape of You",
+            "Perfect",
+            "Galway Girl",
+            "Happier",
+            "New Man",
+            "Hearts Don't Break Around Here",
+            "What Do I Know?"
+            "How Would You Feel (Paean)",
+            "Supermarket Flowers",
+            "Barcelona",
+            "Bibia Be Ye Ye",
+            "Nancy Mulligan",
+            "Save Myself"
+        ]
+    },
+    {
+        title: "Wilder Mind",
+        artist: "Mumford & Sons",
+        cover_url: "https://cdn.pastemagazine.com/www/articles/wildermind-packshot-2.jpg",
+        tracks: [
+            "Tompkins Square Park",
+            "Believe",
+            "The Wolf",
+            "Wilder Mind",
+            "Just Smoke",
+            "Monster",
+            "Snake Eyes",
+            "Broad-Shouldered Beasts",
+            "Cold Arms",
+            "DItmas",
+            "Only Love",
+            "Hot Gates"
         ]
     }
+
 ];
