@@ -5,6 +5,9 @@ h1 {
 	font-family: Arial, sans-serif;
 	color: #336699;
 }
+table {
+	width: 100%;
+}
 #funButton {
 	background-color: red;
 	padding: 1em;
